@@ -7,6 +7,7 @@
 :+1:
 
 <details>
+	
 ## About me
 
 | Rank | Languages |
@@ -14,6 +15,7 @@
 |     1| Javascript|
 |     2| Python    |
 |     3| SQL       |
+	
 </details>
 
 # 아아
