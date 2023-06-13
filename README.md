@@ -70,3 +70,6 @@ push <br><br> pull <br><br>
 
 ## 9.이미지 넣기
 ![펭수이미지](./pengsoo.png)
+
+이미지에 링크 넣기
+[![펭수이미지](./pengsoo.png)](http://multicampus.com)
