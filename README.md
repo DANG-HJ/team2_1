@@ -9,6 +9,12 @@
 
 ## About me
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
 # 아아
 
 ## 2.가로줄 넣기 (3개 이상이면 됨.)
