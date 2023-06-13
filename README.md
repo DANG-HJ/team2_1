@@ -69,3 +69,4 @@ push <br><br> pull <br><br>
 [멀티캠퍼스](http://multicampus.com, "누르면 이동합니다.")
 
 ## 9.이미지 넣기
+![펭수이미지](./pengsoo.png)
